@@ -79,15 +79,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeet-verma-0&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeet-verma-0&theme=radical" width="48%" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -95,3 +86,5 @@
   <a href="https://leetcode.com/u/Ajeet_Verma_1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:ajeetv615@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p>Crafting code, solving problems, and ready to innovate in the tech world.</p>

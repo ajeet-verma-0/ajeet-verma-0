@@ -87,4 +87,4 @@
   <a href="mailto:ajeetv615@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p>Crafting code, solving problems, and ready to innovate in the tech world.</p>
+<p align="center">Crafting clean code. Creating smart apps. 🚀</p>
